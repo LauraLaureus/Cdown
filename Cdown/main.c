@@ -9,7 +9,6 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    system("sudo halt");
     return 0;
 }
